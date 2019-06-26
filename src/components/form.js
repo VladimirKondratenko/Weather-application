@@ -7,9 +7,6 @@ const Form = props => (
   </form>
 )
 
-
-
-
 // class Form extends React.Component {
 //     render() {
 //         return (

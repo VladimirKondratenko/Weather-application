@@ -18,8 +18,6 @@ const Weather = props => (
     </div>
   );
 
-
-
 // class Weather extends React.Component {
 //     render() {
 //         return ( 
