@@ -17,6 +17,7 @@ class App extends React.Component {
       error: ''
     }
 
+    
     _gettingWeather = async (e) => {
         e.preventDefault();
         const city = e.target.elements.city.value;
